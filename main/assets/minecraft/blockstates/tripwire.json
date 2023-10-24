@@ -19,8 +19,7 @@
       "model": "minecraft:block/force"
     },
     "attached=false,east=false,north=true,south=false,west=true": {
-      "model": "minecraft:block/tripwire_ne",
-      "y": 270
+      "model": "minecraft:block/force"
     },
     "attached=false,east=false,north=true,south=true,west=false": {
       "model": "minecraft:block/tripwire_ns"
@@ -46,7 +45,7 @@
       "y": 90
     },
     "attached=false,east=true,north=true,south=false,west=false": {
-      "model": "minecraft:block/tripwire_ne"
+      "model": "minecraft:block/force"
     },
     "attached=false,east=true,north=true,south=false,west=true": {
       "model": "minecraft:block/tripwire_nse",
