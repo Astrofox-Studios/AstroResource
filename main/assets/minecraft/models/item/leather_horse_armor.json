@@ -8,7 +8,6 @@
  {"predicate": {"custom_model_data":100}, "model": "item/crown1"},
  {"predicate": {"custom_model_data":101}, "model": "item/bench1"},
  {"predicate": {"custom_model_data":102}, "model": "item/bench2"},
- {"predicate": {"custom_model_data":103}, "model": "item/bin1"},
  {"predicate": {"custom_model_data":104}, "model": "item/pc"},
  {"predicate": {"custom_model_data":105}, "model": "item/monitor"},
  {"predicate": {"custom_model_data":106}, "model": "item/toilet"},
