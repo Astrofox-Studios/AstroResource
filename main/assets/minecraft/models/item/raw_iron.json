@@ -1,0 +1,16 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+    "layer0": "item/raw_iron"
+    },
+    
+    "overrides": [
+    {"predicate": {"custom_model_data":8}, "model": "astro:models/cosmetics/astro_pass/1_20/plushie1"},
+    {"predicate": {"custom_model_data":1000}, "model": "astro:models/cosmetics/astro_pass/1_20/fox_head"},
+    {"predicate": {"custom_model_data":1001}, "model": "astro:models/cosmetics/astro_pass/1_20/fox_head_white"},
+    {"predicate": {"custom_model_data":1002}, "model": "astro:models/cosmetics/astro_pass/1_20/fox_arm"},
+    {"predicate": {"custom_model_data":1003}, "model": "astro:models/cosmetics/astro_pass/1_20/fox_arm_white"},
+    {"predicate": {"custom_model_data":1004}, "model": "astro:models/cosmetics/astro_pass/1_20/fox_pet"},
+    {"predicate": {"custom_model_data":1005}, "model": "astro:models/cosmetics/astro_pass/1_20/fox_pet_white"}
+    ]
+   }
