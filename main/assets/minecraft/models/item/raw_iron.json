@@ -14,6 +14,12 @@
     {"predicate": {"custom_model_data":1005}, "model": "astro:cosmetics/astro_pass/1_20/fox_pet_white"},
     {"predicate": {"custom_model_data":1006}, "model": "astro:cosmetics/astro_pass/1_20/giraffe_pet"},
     {"predicate": {"custom_model_data":2000}, "model": "astro:gui/arrow_left"},
-    {"predicate": {"custom_model_data":2001}, "model": "astro:gui/arrow_right"}
+    {"predicate": {"custom_model_data":2001}, "model": "astro:gui/arrow_right"},
+    {"predicate": {"custom_model_data":2002}, "model": "astro:gui/castle"},
+    {"predicate": {"custom_model_data":2003}, "model": "astro:gui/corrupted"},
+    {"predicate": {"custom_model_data":2004}, "model": "astro:gui/domination"},
+    {"predicate": {"custom_model_data":2005}, "model": "astro:gui/movement"},
+    {"predicate": {"custom_model_data":2006}, "model": "astro:gui/movement_daily"},
+    {"predicate": {"custom_model_data":2007}, "model": "astro:gui/splatshot"}
     ]
 }
