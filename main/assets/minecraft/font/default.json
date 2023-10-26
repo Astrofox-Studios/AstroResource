@@ -654,6 +654,24 @@
             "chars": [
                 ""
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:font_/gui/double_chest.png", 
+            "ascent": 27,
+            "height": 256,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:font_/gui/single_chest.png", 
+            "ascent": 27,
+            "height": 256,
+            "chars": [
+                ""
+            ]
         }
     ]
 }
