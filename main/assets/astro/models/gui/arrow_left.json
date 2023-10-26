@@ -6,6 +6,6 @@
 		}
 	},
   "textures": {
-    "layer0": "astro:_font/gui/arrow_left"
+    "layer0": "item/arrow_left"
   }
 }
