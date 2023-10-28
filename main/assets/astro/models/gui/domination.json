@@ -6,6 +6,6 @@
 		}
 	},
   "textures": {
-    "layer0": "item/2d/domination"
+    "layer0": "item/2d/games/domination"
   }
 }

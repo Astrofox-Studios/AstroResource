@@ -6,6 +6,6 @@
 		}
 	},
   "textures": {
-    "layer0": "item/2d/corrupted"
+    "layer0": "item/2d/games/corrupted"
   }
 }

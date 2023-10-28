@@ -6,6 +6,6 @@
 		}
 	},
   "textures": {
-    "layer0": "item/2d/splatshot"
+    "layer0": "item/2d/games/splatshot"
   }
 }

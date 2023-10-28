@@ -6,6 +6,6 @@
 		}
 	},
   "textures": {
-    "layer0": "item/2d/castle"
+    "layer0": "item/2d/games/castle"
   }
 }
