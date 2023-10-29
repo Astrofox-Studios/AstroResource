@@ -54,16 +54,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/astro.png",
-            "ascent": 8,
-            "height": 9,
-            "chars": [
-                "" 
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:custom/redracoons.png",
+            "file": "astro:_font/icons/teams/redracoons.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -72,7 +63,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/orangeotters.png",
+            "file": "astro:_font/icons/teams/orangeotters.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -81,7 +72,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/firefoxes.png",
+            "file": "astro:_font/icons/teams/firefoxes.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -90,16 +81,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/limeladybugs.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": [
-                "\ue005"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:custom/greengoats.png",
+            "file": "astro:_font/icons/teams/greengoats.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -108,70 +90,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/aquaaligators.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": [
-                "\ue007"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:custom/teampoints.png",
-            "ascent": 12,
-            "height": 12,
-            "chars": [
-                "\ue903"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:custom/overallpoint.png",
-            "ascent": 12,
-            "height": 12,
-            "chars": [
-                "\ue905"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:custom/actionbar_team.png",
-            "ascent": 14,
-            "height": 14,
-            "chars": [
-                "\ue906"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:custom/actionbar_yp.png",
-            "ascent": 14,
-            "height": 14,
-            "chars": [
-                "\ue907"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:custom/teampoints.png",
-            "ascent": 12,
-            "height": 12,
-            "chars": [
-                "\ue903"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:custom/yourpoints.png",
-            "ascent": 12,
-            "height": 12,
-            "chars": [
-                "\ue904"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:custom/tealtigers.png",
+            "file": "astro:_font/icons/teams/tealtigers.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -180,7 +99,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/bluebadgers.png",
+            "file": "astro:_font/icons/teams/bluebadgers.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -189,7 +108,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/purplepeacocks.png",
+            "file": "astro:_font/icons/teams/purplepeacocks.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -198,7 +117,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/pinkpanthers.png",
+            "file": "astro:_font/icons/teams/pinkpanthers.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -207,7 +126,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/redracoons.png",
+            "file": "astro:_font/icons/teams/redracoons.png",
             "ascent": 7,
             "height": 16,
             "chars": [
@@ -216,7 +135,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/orangeotters.png",
+            "file": "astro:_font/icons/teams/orangeotters.png",
             "ascent": 7,
             "height": 16,
             "chars": [
@@ -225,7 +144,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/firefoxes.png",
+            "file": "astro:_font/icons/teams/firefoxes.png",
             "ascent": 7,
             "height": 16,
             "chars": [
@@ -234,16 +153,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/limeladybugs.png",
-            "ascent": 7,
-            "height": 16,
-            "chars": [
-                "\ue016"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:custom/greengoats.png",
+            "file": "astro:_font/icons/teams/greengoats.png",
             "ascent": 7,
             "height": 16,
             "chars": [
@@ -252,16 +162,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/aquaaligators.png",
-            "ascent": 7,
-            "height": 16,
-            "chars": [
-                "\ue018"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:custom/tealtigers.png",
+            "file": "astro:_font/icons/teams/tealtigers.png",
             "ascent": 7,
             "height": 16,
             "chars": [
@@ -270,7 +171,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/bluebadgers.png",
+            "file": "astro:_font/icons/teams/bluebadgers.png",
             "ascent": 7,
             "height": 16,
             "chars": [
@@ -279,7 +180,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/purplepeacocks.png",
+            "file": "astro:_font/icons/teams/purplepeacocks.png",
             "ascent": 7,
             "height": 16,
             "chars": [
@@ -288,7 +189,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/redracoons.png",
+            "file": "astro:_font/icons/teams/redracoons.png",
             "ascent": -10,
             "height": 16,
             "chars": [
@@ -297,7 +198,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/orangeotters.png",
+            "file": "astro:_font/icons/teams/orangeotters.png",
             "ascent": -10,
             "height": 16,
             "chars": [
@@ -306,7 +207,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/firefoxes.png",
+            "file": "astro:_font/icons/teams/firefoxes.png",
             "ascent": -10,
             "height": 16,
             "chars": [
@@ -315,7 +216,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/spec.png",
+            "file": "astro:_font/icons/astrofox/spec.png",
             "ascent": -10,
             "height": 10,
             "chars": [
@@ -324,7 +225,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/greengoats.png",
+            "file": "astro:_font/icons/teams/greengoats.png",
             "ascent": -10,
             "height": 16,
             "chars": [
@@ -333,7 +234,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/admin.png",
+            "file": "astro:_font/icons/astrofox/admin.png",
             "ascent": -10,
             "height": 10,
             "chars": [
@@ -342,7 +243,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/tealtigers.png",
+            "file": "astro:_font/icons/teams/tealtigers.png",
             "ascent": -10,
             "height": 16,
             "chars": [
@@ -351,7 +252,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/bluebadgers.png",
+            "file": "astro:_font/icons/teams/bluebadgers.png",
             "ascent": -10,
             "height": 16,
             "chars": [
@@ -360,7 +261,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/pinkpanthers.png",
+            "file": "astro:_font/icons/teams/pinkpanthers.png",
             "ascent": -10,
             "height": 16,
             "chars": [
@@ -369,7 +270,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/purplepeacocks.png",
+            "file": "astro:_font/icons/teams/purplepeacocks.png",
             "ascent": -10,
             "height": 16,
             "chars": [
@@ -378,16 +279,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/sg.png",
-            "ascent": 7,
-            "height": 13,
-            "chars": [
-                "\ue021"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:custom/dev.png",
+            "file": "astro:_font/icons/astrofox/dev.png",
             "ascent": 8,
             "height": 9,
             "chars": [
@@ -396,7 +288,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/builders.png",
+            "file": "astro:_font/icons/astrofox/builders.png",
             "ascent": 8,
             "height": 9,
             "chars": [
@@ -405,7 +297,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/admin.png",
+            "file": "astro:_font/icons/astrofox/admin.png",
             "ascent": 8,
             "height": 9,
             "chars": [
@@ -414,7 +306,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/spec.png",
+            "file": "astro:_font/icons/astrofox/spec.png",
             "ascent": 8,
             "height": 9,
             "chars": [
@@ -423,7 +315,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/wool.png",
+            "file": "astro:_font/icons/astrofox/wool.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -432,7 +324,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/artist.png",
+            "file": "astro:_font/icons/astrofox/artist.png",
             "ascent": 8,
             "height": 9,
             "chars": [
@@ -441,7 +333,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/manager.png",
+            "file": "astro:_font/icons/astrofox/manager.png",
             "ascent": 8,
             "height": 9,
             "chars": [
@@ -450,7 +342,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/mod.png",
+            "file": "astro:_font/icons/astrofox/mod.png",
             "ascent": 8,
             "height": 9,
             "chars": [
@@ -459,7 +351,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/tester.png",
+            "file": "astro:_font/icons/astrofox/tester.png",
             "ascent": 8,
             "height": 9,
             "chars": [
@@ -468,7 +360,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/social.png",
+            "file": "astro:_font/icons/astrofox/social.png",
             "ascent": 8,
             "height": 9,
             "chars": [
@@ -486,7 +378,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/player.png",
+            "file": "astro:_font/icons/player.png",
             "ascent": 7,
             "height": 16,
             "chars": [
@@ -495,7 +387,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/player.png",
+            "file": "astro:_font/icons/player.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -513,7 +405,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/pinkpanthers.png",
+            "file": "astro:_font/icons/teams/pinkpanthers.png",
             "ascent": 7,
             "height": 24,
             "chars": [
@@ -585,47 +477,11 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/vh.png", 
-            "ascent": 8,
-            "height": 8,
-            "chars": [
-                ""
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:custom/vh_wall.png", 
-            "ascent": 8,
-            "height": 8,
-            "chars": [
-                ""
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:custom/vh_turret.png", 
-            "ascent": 8,
-            "height": 8,
-            "chars": [
-                ""
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:custom/vh_red.png", 
+            "file": "astro:_font/icons/alert.png", 
             "ascent": 8,
             "height": 8,
             "chars": [
                 ""
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:custom/vh_cam.png", 
-            "ascent": 8,
-            "height": 8,
-            "chars": [
-                ""
             ]
         },
         {
@@ -688,7 +544,16 @@
             "ascent": 28,
             "height": 256,
             "chars": [
-                ""
+                "" 
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/gui/locker.png", 
+            "ascent": 28,
+            "height": 256,
+            "chars": [
+                "" 
             ]
         }
     ]
