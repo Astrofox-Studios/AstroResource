@@ -550,8 +550,8 @@
         {
             "type": "bitmap",
             "file": "astro:_font/gui/double_chest.png", 
-            "ascent": 9,
-            "height": 9,
+            "ascent": 28,
+            "height": 256,
             "chars": [
                 ""
             ]
