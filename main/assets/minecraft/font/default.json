@@ -524,7 +524,7 @@
             "type": "bitmap",
             "file": "astro:_font/click_icons/click_action_left_double.png", 
             "ascent": 9,
-            "height": 9,
+            "height": 13,
             "chars": [
                 ""
             ]
