@@ -513,9 +513,45 @@
         },
         {
             "type": "bitmap",
+            "file": "astro:_font/click_icons/click_action_left.png", 
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/click_icons/click_action_left_double.png", 
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/click_icons/click_action_right.png", 
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/click_icons/click_action_shift.png", 
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "astro:_font/gui/double_chest.png", 
-            "ascent": 28,
-            "height": 256,
+            "ascent": 9,
+            "height": 9,
             "chars": [
                 ""
             ]
