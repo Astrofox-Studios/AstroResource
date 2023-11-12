@@ -10,7 +10,7 @@
     {"predicate": {"custom_model_data":3}, "model": "astro:splat/guns/1_makeshift_ak"},
     {"predicate": {"custom_model_data":4}, "model": "astro:splat/guns/2_pistol"},
     {"predicate": {"custom_model_data":5}, "model": "astro:splat/guns/2_smg"},
-    {"predicate": {"custom_model_data":6}, "model": "astro:splat/guns/2_ak"}
-
+    {"predicate": {"custom_model_data":6}, "model": "astro:splat/guns/2_ak"},
+    {"predicate": {"custom_model_data":7}, "model": "astro:splat/guns/2_ar"}
     ]
 }
