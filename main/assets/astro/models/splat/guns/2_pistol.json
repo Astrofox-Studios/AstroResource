@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/cyan_wool",
+		"0": "block/light_gray_wool",
 		"1": "block/gray_wool",
 		"3": "block/stripped_oak_log",
 		"4": "block/coal_block",
-		"particle": "block/cyan_wool"
+		"particle": "block/light_gray_wool"
 	},
 	"elements": [
 		{

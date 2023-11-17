@@ -3,7 +3,7 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "item/guns/sniper1",
-		"1": "block/cyan_wool",
+		"1": "block/light_gray_wool",
 		"2": "block/gray_concrete",
 		"particle": "item/guns/sniper1"
 	},
@@ -356,11 +356,11 @@
 		},
 		"firstperson_righthand": {
 			"rotation": [0, -180, 0],
-			"translation": [-8.5, 8.75, 4.75]
+			"translation": [-8.5, 8.75, 6.75]
 		},
 		"firstperson_lefthand": {
 			"rotation": [0, -180, 0],
-			"translation": [-9.75, 8.75, 4.75]
+			"translation": [-9.75, 8.75, 6.75]
 		},
 		"ground": {
 			"translation": [0, 3.75, 0]
