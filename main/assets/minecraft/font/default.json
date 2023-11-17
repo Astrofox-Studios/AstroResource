@@ -549,6 +549,78 @@
         },
         {
             "type": "bitmap",
+            "file": "astro:_font/icons/rarity/manual.png", 
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/rarity/auto.png", 
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/rarity/makeshift.png", 
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/rarity/uncommon.png", 
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/rarity/common.png", 
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/rarity/rare.png", 
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/rarity/epic.png", 
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/rarity/legendary.png", 
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "astro:_font/gui/double_chest.png", 
             "ascent": 28,
             "height": 256,
