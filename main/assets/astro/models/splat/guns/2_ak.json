@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/cyan_wool",
+		"0": "block/light_gray_wool",
 		"1": "block/diorite",
 		"2": "block/polished_diorite",
 		"3": "block/gray_wool",
 		"4": "block/black_concrete",
-		"particle": "block/cyan_wool"
+		"particle": "block/light_gray_wool"
 	},
 	"elements": [
 		{
