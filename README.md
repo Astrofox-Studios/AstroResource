@@ -1,8 +1,8 @@
-![DestinyGames Logo](https://github.com/Astrofox-Studios/DESTINYResource/blob/main/test/test.png)
+![DestinyGames Logo](https://github.com/Astrofox-Studios/AstroResource/blob/main/test/test.png)
 
 The Pack for Destiny Games! If you use any of the models, textures or sounds in this pack you **HAVE** to reach out to @arctic_foxxyt on discord or atleast give credit of some form!
 
-![last commit](https://img.shields.io/github/last-commit/Astrofox-Studios/DESTINYResource?style=for-the-badge) ![virsion](https://img.shields.io/badge/Minecraft-1.20.1-8403fc?style=for-the-badge) 
+![last commit](https://img.shields.io/github/last-commit/Astrofox-Studios/AstroResource?style=for-the-badge) ![virsion](https://img.shields.io/badge/Minecraft-1.20.1-8403fc?style=for-the-badge) 
 
 ![powered by](https://img.shields.io/badge/Powered_by-Ington-038cfc?style=for-the-badge)
 
