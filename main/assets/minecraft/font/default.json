@@ -9,11 +9,11 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/apple.png",
+            "file": "astro:_font/icons/rarity/ink.png",
             "ascent": 9,
             "height": 9,
             "chars": [
-                "\ue000"
+                ""
             ]
         },
         {
