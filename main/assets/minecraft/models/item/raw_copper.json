@@ -5,6 +5,7 @@
     },
     
     "overrides": [
+    {"predicate": {"custom_model_data":0}, "model": "astro:gui/lobby/intro_backround"},
     {"predicate": {"custom_model_data":1}, "model": "astro:splat/guns/1_makeshift_pistol"},
     {"predicate": {"custom_model_data":2}, "model": "astro:splat/guns/1_makeshift_smg"},
     {"predicate": {"custom_model_data":3}, "model": "astro:splat/guns/1_makeshift_ak"},
