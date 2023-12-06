@@ -21,7 +21,7 @@
 	"gui_light": "front",
 	"display": {
 		"gui": {
-			"translation": [0, -9.25, 0],
+			"translation": [-9, -9.25, 0],
 			"scale": [2.3, 2.3, 1]
 		}
 	}
