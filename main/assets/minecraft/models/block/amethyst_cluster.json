@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/cross",
+    "render": "translucent",
+    "textures": {
+        "cross": "minecraft:block/amethyst_cluster"
+    }
+}
